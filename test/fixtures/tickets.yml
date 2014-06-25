@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  attendee_id: 1
+  show_id: 1
+  price: 180
+
+two:
+  attendee_id: 2
+  show_id: 1
+  price: 180
+
+three:
+  attendee_id: 1
+  show_id: 2
+  price: 180

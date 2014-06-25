@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: pizza
+  vendor_type: food
+  location: 1
+  show_id:
+
+two:
+  name: burgers
+  vendor_type: food
+  location: 2
+  show_id:

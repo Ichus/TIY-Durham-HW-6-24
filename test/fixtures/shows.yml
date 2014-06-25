@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: show1
+  max_attendence: 10
+  stages: 1
+  max_vendors: 1
+
+two:
+  name: show2
+  max_attendence: 0
+  stages: 2
+  max_vendors: 10
